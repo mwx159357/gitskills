@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick.
-secoed created branch dev.
+Created to a new branch 'featurel'
