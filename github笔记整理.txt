@@ -1,0 +1,29 @@
+git checkout -b dev 创建分支dev,并切换到dev分支；
+git checkout命令加上-b参数表示创建并切换，相当于以下两条命令：；
+git branch dev 创建分支；
+git checkout dev 切换到dev分支；
+git branch 查看分支，当前分支前面会标一个*号。
+git merge dev 合并，dev分支的工作成果合并到master分支上；
+git branch -d dev 删除分支dev；
+git log --graph --pretty=oneline --abbrev-commit ；
+git merge --no-ff -m '备注' dev  合并分支时，
+加上--no-ff参数就可以用普通模式合并，合并后的历史有分支，能看出来曾经做过合并，而fast forward合并就看不出来曾经做过合并；
+
+
+
+
+
+
+===================================================================
+gitlab.hzfanews.com
+
+http://gitlab.hzfanews.com/fw-testcode/archiveDataMining.git
+
+账号：yfb_mwx
+密码：maweixin7890
+
+
+
+GITHUB账号：mwx159357
+密码：maweixin159357
+https://github.com/mwx159357/maweixin.git
