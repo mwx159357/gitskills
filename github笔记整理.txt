@@ -1,16 +1,27 @@
-git checkout -b dev 创建分支dev,并切换到dev分支；
-git checkout命令加上-b参数表示创建并切换，相当于以下两条命令：；
-git branch dev 创建分支；
-git checkout dev 切换到dev分支；
+﻿初始化仓库:Git init  
+添加文件到仓库，分两步:
+Git add <filename>  
+Git commit -m 'message' 
+掌握仓库的状态：Git status 
+查看修改内容：Git diff <filename> 
+查看提交日志：Git log  
+格式化查看：Git log --pretty=oneline  
+回退：
+Git reset --hard HEAD^
+git reset  --hard 版本号
+记录命令：Git reflog
+克隆远程库：git clone git@github.com:michaelliao/gitskills.git
+
+git checkout -b dev ：创建分支dev,并切换到dev分支；
+git checkout命令加上-b参数表示创建并切换，相当于以下两条命令：
+a、git branch dev 创建分支；
+bgit checkout dev 切换到dev分支；
 git branch 查看分支，当前分支前面会标一个*号。
 git merge dev 合并，dev分支的工作成果合并到master分支上；
 git branch -d dev 删除分支dev；
 git log --graph --pretty=oneline --abbrev-commit ；
 git merge --no-ff -m '备注' dev  合并分支时，
 加上--no-ff参数就可以用普通模式合并，合并后的历史有分支，能看出来曾经做过合并，而fast forward合并就看不出来曾经做过合并；
-
-
-
 
 
 
