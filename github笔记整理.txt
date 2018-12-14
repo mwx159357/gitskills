@@ -1,13 +1,13 @@
-git checkout -b dev ´´½¨·ÖÖ§dev,²¢ÇĞ»»µ½dev·ÖÖ§£»
-git checkoutÃüÁî¼ÓÉÏ-b²ÎÊı±íÊ¾´´½¨²¢ÇĞ»»£¬Ïàµ±ÓÚÒÔÏÂÁ½ÌõÃüÁî£º£»
-git branch dev ´´½¨·ÖÖ§£»
-git checkout dev ÇĞ»»µ½dev·ÖÖ§£»
-git branch ²é¿´·ÖÖ§£¬µ±Ç°·ÖÖ§Ç°Ãæ»á±êÒ»¸ö*ºÅ¡£
-git merge dev ºÏ²¢£¬dev·ÖÖ§µÄ¹¤×÷³É¹ûºÏ²¢µ½master·ÖÖ§ÉÏ£»
-git branch -d dev É¾³ı·ÖÖ§dev£»
-git log --graph --pretty=oneline --abbrev-commit £»
-git merge --no-ff -m '±¸×¢' dev  ºÏ²¢·ÖÖ§Ê±£¬
-¼ÓÉÏ--no-ff²ÎÊı¾Í¿ÉÒÔÓÃÆÕÍ¨Ä£Ê½ºÏ²¢£¬ºÏ²¢ºóµÄÀúÊ·ÓĞ·ÖÖ§£¬ÄÜ¿´³öÀ´Ôø¾­×ö¹ıºÏ²¢£¬¶øfast forwardºÏ²¢¾Í¿´²»³öÀ´Ôø¾­×ö¹ıºÏ²¢£»
+git checkout -b dev åˆ›å»ºåˆ†æ”¯dev,å¹¶åˆ‡æ¢åˆ°devåˆ†æ”¯ï¼›
+git checkoutå‘½ä»¤åŠ ä¸Š-bå‚æ•°è¡¨ç¤ºåˆ›å»ºå¹¶åˆ‡æ¢ï¼Œç›¸å½“äºä»¥ä¸‹ä¸¤æ¡å‘½ä»¤ï¼šï¼›
+git branch dev åˆ›å»ºåˆ†æ”¯ï¼›
+git checkout dev åˆ‡æ¢åˆ°devåˆ†æ”¯ï¼›
+git branch æŸ¥çœ‹åˆ†æ”¯ï¼Œå½“å‰åˆ†æ”¯å‰é¢ä¼šæ ‡ä¸€ä¸ª*å·ã€‚
+git merge dev åˆå¹¶ï¼Œdevåˆ†æ”¯çš„å·¥ä½œæˆæœåˆå¹¶åˆ°masteråˆ†æ”¯ä¸Šï¼›
+git branch -d dev åˆ é™¤åˆ†æ”¯devï¼›
+git log --graph --pretty=oneline --abbrev-commit ï¼›
+git merge --no-ff -m 'å¤‡æ³¨' dev  åˆå¹¶åˆ†æ”¯æ—¶ï¼Œ
+åŠ ä¸Š--no-ffå‚æ•°å°±å¯ä»¥ç”¨æ™®é€šæ¨¡å¼åˆå¹¶ï¼Œåˆå¹¶åçš„å†å²æœ‰åˆ†æ”¯ï¼Œèƒ½çœ‹å‡ºæ¥æ›¾ç»åšè¿‡åˆå¹¶ï¼Œè€Œfast forwardåˆå¹¶å°±çœ‹ä¸å‡ºæ¥æ›¾ç»åšè¿‡åˆå¹¶ï¼›
 
 
 
@@ -19,11 +19,11 @@ gitlab.hzfanews.com
 
 http://gitlab.hzfanews.com/fw-testcode/archiveDataMining.git
 
-ÕËºÅ£ºyfb_mwx
-ÃÜÂë£ºmaweixin7890
+è´¦å·ï¼šyfb_mwx
+å¯†ç ï¼šmaweixin7890
 
 
 
-GITHUBÕËºÅ£ºmwx159357
-ÃÜÂë£ºmaweixin159357
+GITHUBè´¦å·ï¼šmwx159357
+å¯†ç ï¼šmaweixin159357
 https://github.com/mwx159357/maweixin.git
