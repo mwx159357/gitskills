@@ -1,0 +1,19 @@
+﻿platformName: Android
+#模拟器
+platformVersion : 4.4.2
+deviceName: 127.0.0.1:62001
+
+#mx4真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+
+appname : huangguan-release-test.1.9.8.apk
+noReset : False
+unicodeKeyboard : True
+resetKeyboard : True
+
+appPackage : com.huangguan.live
+appActivity : com.qiyu.live.activity.StartActivity
+ip : 127.0.0.1
+port : 4723

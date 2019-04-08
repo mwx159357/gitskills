@@ -1,0 +1,85 @@
+2019-04-08 21:13:57,045 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:13:57,078 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:14:02,501 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:14:02,532 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:14:07,570 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:14:07,581 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:14:12,648 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:14:12,664 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:21:49,165 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:21:49,176 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:22:17,054 test_login_fun.py[line:13] INFO ========test test_login_normal ============
+2019-04-08 21:22:17,054 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:22:17,144 login_fun.py[line:67] INFO ===========login starting========
+2019-04-08 21:22:38,503 login_fun.py[line:69] INFO username is 90005
+2019-04-08 21:22:44,815 login_fun.py[line:71] INFO passwd is 12345678
+2019-04-08 21:22:51,447 login_fun.py[line:98] INFO ==============check close_recivecoin tips============
+2019-04-08 21:22:58,624 login_fun.py[line:112] INFO =========login success======
+2019-04-08 21:22:59,503 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:23:10,018 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:23:10,030 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:23:36,202 test_login_fun.py[line:21] INFO ========test test_login_passwd_error ============
+2019-04-08 21:23:36,203 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:23:36,204 login_fun.py[line:67] INFO ===========login starting========
+2019-04-08 21:23:57,488 login_fun.py[line:69] INFO username is 90005
+2019-04-08 21:24:03,786 login_fun.py[line:71] INFO passwd is 123456
+2019-04-08 21:24:10,475 login_fun.py[line:98] INFO ==============check close_recivecoin tips============
+2019-04-08 21:24:18,863 login_fun.py[line:102] INFO no recivecoin  Tips，check me tips
+2019-04-08 21:24:27,418 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:24:37,741 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:24:37,751 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:25:00,196 test_login_fun.py[line:28] INFO =========test QQ login ========
+2019-04-08 21:25:00,196 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:25:26,568 login_fun.py[line:98] INFO ==============check close_recivecoin tips============
+2019-04-08 21:25:32,490 login_fun.py[line:112] INFO =========login success======
+2019-04-08 21:25:33,453 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:25:43,260 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:25:43,268 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:28:55,963 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:28:55,983 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:29:16,746 test_login_fun.py[line:37] INFO =========test weixin login ========
+2019-04-08 21:29:16,747 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:29:37,671 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:36:02,789 run.py[line:16] INFO start run test case.....
+2019-04-08 21:36:02,792 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:36:02,810 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:36:23,020 test_login_fun.py[line:13] INFO ========test test_login_normal ============
+2019-04-08 21:36:23,021 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:36:23,024 login_fun.py[line:67] INFO ===========login starting========
+2019-04-08 21:36:24,800 login_fun.py[line:69] INFO username is 90005
+2019-04-08 21:36:31,207 login_fun.py[line:71] INFO passwd is 12345678
+2019-04-08 21:36:38,039 login_fun.py[line:98] INFO ==============check close_recivecoin tips============
+2019-04-08 21:36:49,156 login_fun.py[line:112] INFO =========login success======
+2019-04-08 21:36:52,184 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:37:01,153 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:37:01,159 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:37:24,558 test_login_fun.py[line:21] INFO ========test test_login_passwd_error ============
+2019-04-08 21:37:24,559 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:37:24,560 login_fun.py[line:67] INFO ===========login starting========
+2019-04-08 21:37:45,900 login_fun.py[line:69] INFO username is 90005
+2019-04-08 21:37:52,217 login_fun.py[line:71] INFO passwd is 123456
+2019-04-08 21:37:59,141 login_fun.py[line:98] INFO ==============check close_recivecoin tips============
+2019-04-08 21:38:07,769 login_fun.py[line:102] INFO no recivecoin  Tips，check me tips
+2019-04-08 21:38:16,114 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:38:25,280 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:38:25,286 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:38:47,181 test_login_fun.py[line:29] INFO =========test QQ login ========
+2019-04-08 21:38:47,181 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:39:11,271 login_fun.py[line:98] INFO ==============check close_recivecoin tips============
+2019-04-08 21:39:17,779 login_fun.py[line:112] INFO =========login success======
+2019-04-08 21:39:18,796 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:39:28,950 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:39:28,957 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:39:47,568 test_login_fun.py[line:37] INFO =========test weixin login ========
+2019-04-08 21:39:47,569 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:40:09,213 Start_End.py[line:14] INFO ======teardown=====
+2019-04-08 21:50:02,121 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:50:02,147 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:50:12,127 Start_End.py[line:10] INFO =======setup=====
+2019-04-08 21:50:12,134 desired_caps.py[line:29] INFO start app......
+2019-04-08 21:50:35,277 test_login_fun.py[line:37] INFO =========test weixin login ========
+2019-04-08 21:50:35,278 comm_fun.py[line:54] INFO =========get_csv_data=======
+2019-04-08 21:50:55,936 login_fun.py[line:58] INFO ======第三方登录跳转失败，或已登录成功=======
+2019-04-08 21:50:55,993 login_fun.py[line:98] INFO ==============check close_recivecoin tips============
+2019-04-08 21:51:04,272 login_fun.py[line:102] INFO no recivecoin  Tips，check me tips
+2019-04-08 21:51:12,405 Start_End.py[line:14] INFO ======teardown=====
